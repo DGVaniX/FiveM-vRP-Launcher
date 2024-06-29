@@ -1,0 +1,28 @@
+C:\Users\georg\source\repos\FiveMLauncher2\bin\Debug\FiveMLauncher2.exe.config
+C:\Users\georg\source\repos\FiveMLauncher2\bin\Debug\FiveMLauncher2.exe
+C:\Users\georg\source\repos\FiveMLauncher2\bin\Debug\FiveMLauncher2.pdb
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.Form1.resources
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.Properties.Resources.resources
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.exe
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.pdb
+C:\Users\georg\source\repos\FiveMLauncher2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\georg\source\repos\FiveMLauncher2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.csproj.CopyComplete
+C:\Users\georg\source\repos\FiveMLauncher2\bin\Debug\FiveMLauncher2.exe.manifest
+C:\Users\georg\source\repos\FiveMLauncher2\bin\Debug\FiveMLauncher2.application
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.TrustInfo.xml
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.exe.manifest
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.application
+C:\Users\georg\source\repos\FiveMLauncher2\obj\Debug\FiveMLauncher2.Form2.resources
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.Form1.resources
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.Form2.resources
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.Properties.Resources.resources
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.TrustInfo.xml
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.exe
+C:\Users\georg\Desktop\fivem vrp launcher\launcher\obj\Debug\FiveMLauncher2.pdb
